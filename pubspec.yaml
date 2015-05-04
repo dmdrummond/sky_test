@@ -1,0 +1,7 @@
+name: GMP Most Wanted
+author: Daniel Drummond <dmdrummondx@gmail.com>
+description: A test sky application
+homepage:
+version: 0.0.1
+dependencies:
+  sky: '>=0.0.1 <1.0.0'
